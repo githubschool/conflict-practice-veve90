@@ -6,7 +6,11 @@
 
 This playable post is [public domain (CC0)](http://creativecommons.org/publicdomain/zero/1.0).
 
+One example
+
 This repository is also being used as a part of GitHub training, to practice Git and GitHub.
+
+I hope that I will manage to present Github &  git as well as Gus!
 
 Please feel free to use this in your classrooms,
 make video/picture/text adaptations,
